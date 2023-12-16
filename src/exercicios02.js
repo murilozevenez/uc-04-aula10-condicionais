@@ -4,7 +4,7 @@ const readline = require("readline-sync")
 const numero = readline.questionInt("informe um numero: ")
  
 const resto = numero  % 2;
- 
+  
  
 // se o resto for igual a zero, e PAR;
 // se nao e IMPAR;

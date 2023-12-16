@@ -3,7 +3,7 @@ const readline = require("readline-sync")
  
 const numero = readline.questionInt("informe um numero: ")
  
-let A
+let A 
 let B
 // se o numero for maior zero, ou seja positivo
 //armazene em A
